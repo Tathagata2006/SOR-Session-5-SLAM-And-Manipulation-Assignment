@@ -36,4 +36,8 @@ Implements direct robotic arm control by publishing `JointTrajectory` messages u
 
 ---
 
+For simplicity, I have included only the src directories, which contain all the custom ROS 2 packages and Python scripts developed for this assignment. The build, install, and log directories have been omitted as they are generated automatically during the build.
+
+---
+
 Thankyou!
