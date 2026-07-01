@@ -10,7 +10,7 @@ Submission_Codebase/
 └── ros2_arm_ws/
 ```
 
-## Q1 – Automated Patroller
+## Q1 – The Automated Patroller (Nav2 Waypoints)
 
 **Workspace:** `ros2_slam_ws`
 
@@ -23,7 +23,7 @@ Implements a ROS 2 Action Client using Nav2's `FollowWaypoints` action to autono
 
 ---
 
-## Q2 – Custom Inverse Kinematics
+## Q2 – Math to the Rescue (Custom Inverse Kinematics)
 
 **Workspace:** `ros2_arm_ws`
 
