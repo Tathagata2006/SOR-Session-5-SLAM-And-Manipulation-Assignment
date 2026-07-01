@@ -1,6 +1,7 @@
-# ROS 2 Navigation and Manipulation Assignment
+# Session 5 Assignment Submission
 
-This repository contains my submission for the ROS 2 Navigation and Manipulation assignment.
+**Name:** Tathagata Roy </br>
+**Roll No.:** 25B3954 </br>
 
 ## Repository Structure
 
